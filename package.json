@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build": "react-scripts build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:top-up-1": "node dist/top-up-1/server/server.mjs"
