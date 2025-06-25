@@ -2,14 +2,14 @@
   "name": "top-up-1",
   "version": "0.0.0",
   "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "build": "react-scripts build",
-    "build": "vite build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test",
-    "serve:ssr:top-up-1": "node dist/top-up-1/server/server.mjs"
+  "ng": "ng",
+  "start": "ng serve",
+  "build": "ng build",
+  "watch": "ng build --watch --configuration development",
+  "test": "ng test",
+  "serve:ssr:top-up-1": "node dist/top-up-1/server/server.mjs"
+}
+
   },
   "private": true,
   "dependencies": {
